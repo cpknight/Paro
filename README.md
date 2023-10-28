@@ -3,4 +3,8 @@
 
 This repository contains public information, including user and service manuals, and firmware releases for **Personal Autonomous Reconnaissance Observer** ("**Paro**") devices.
 
-- For more information, please see the _wiki_ (:construction: coming soon - _mid-October 2023_) <!-- [wiki](https://github.com/cpknight/Paro/wiki) -->.
+| Document | Revision |
+| :------- | -------: |
+| [Paro Quick Start Guide](content/Paro-RC1-Quick-Start-Guide.pdf)| RC1 (Rev. B 20230828) |
+| Paro User Manual | RC1 (:construction: Coming Soon) |
+| Paro Service Manual | RC1 (:construction: Coming Soon) |
