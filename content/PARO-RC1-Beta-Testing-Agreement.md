@@ -15,17 +15,17 @@ The Beta Tester agrees to participate in the Paro Beta Testing Program, which in
     6. An optional acknowledgment of the Beta Tester's name physically imprinted on the inside case of the final Paro release, along with an acknowledgment in Paro's firmware.
 
 2. **Payment**:
-- The Beta Tester agrees to pay USD$500 for participation in the Program, subject to optional waiver by the Provider.
+    - The Beta Tester agrees to pay USD$500 for participation in the Program, subject to optional waiver by the Provider.
 
 3. **Exchange and Shipping**:
-- Provider shall bear the costs of shipping for sending devices to the Beta Tester, including but not limited to initial delivery, exchanges, and final product shipments.
-- Beta Tester shall be responsible for all costs associated with returning or exchanging devices to the Provider, including but not limited to packaging, postage, and any applicable insurance.
+    - Provider shall bear the costs of shipping for sending devices to the Beta Tester, including but not limited to initial delivery, exchanges, and final product shipments.
+    - Beta Tester shall be responsible for all other costs associated with returning or exchanging devices to the Provider, including but not limited to packaging, postage, and any applicable insurance.
 
 4. **Limitation of Liability**:
 
-    The Provider's total liability under this Agreement for all claims shall not exceed the total amount paid by the Beta Tester, capped at USD$500.
-    This limitation applies to all causes of action or claims in the aggregate, including, without limitation, breach of contract, breach of warranty, indemnification, negligence, strict liability, misrepresentation, and other torts.
-    Under no circumstances shall the Provider be liable for any indirect, incidental, consequential, special, or exemplary damages arising out of or related to this Agreement, even if advised of the possibility of such damages.
+    - The Provider's total liability under this Agreement for all claims shall not exceed the total amount paid by the Beta Tester, capped at USD$500.
+    - This limitation applies to all causes of action or claims in the aggregate, including, without limitation, breach of contract, breach of warranty, indemnification, negligence, strict liability, misrepresentation, and other torts.
+    - Under no circumstances shall the Provider be liable for any indirect, incidental, consequential, special, or exemplary damages arising out of or related to this Agreement, even if advised of the possibility of such damages.
 
 5. **No Warranty**:
 
