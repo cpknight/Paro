@@ -1,4 +1,4 @@
-_This is the Revision "A" text of the Paro Beta Testing Agreement - participants in the Paro beta testing program will electronically sign a copy of this agreement prior to any Paro devices being shipped. Questions may be directed to [chris@cpknight.io](mailto:chris@cpknight.io)._
+_This is the Revision "B" text of the Paro Beta Testing Agreement - participants in the Paro beta testing program will electronically sign a copy of this agreement prior to any Paro devices being shipped. Questions may be directed to [chris@cpknight.io](mailto:chris@cpknight.io)._
 
 ## Paro Beta Testing Agreement
 
@@ -7,21 +7,19 @@ This Agreement is entered into by CP Knight, resident of Calgary, Alberta, doing
 
 1. **Program Description**:
 The Beta Tester agrees to participate in the Paro Beta Testing Program, which includes:
-
-    Receipt of the current Paro hardware (RC1).
-    The right to exchange the Paro for any future release candidates (RC2, RC3, RC4...) as they are released.
-    The right to exchange the Paro for the final, production version.
-    A 15% discount on Paro-related accessories.
-    Access to a dedicated "Paro" Discord server during the Beta program.
-    An optional acknowledgment to the Beta Tester physically imprinted on the inside case of the final Paro release, along with an acknowledgment in Paro's firmware.
+- (1) Receipt of the current Paro hardware (RC1).
+- (2) The right to exchange the Paro for any future release candidate devices (RC2, RC3, RC4...) as they are released.
+- (3) The right to exchange the Paro for the final, production version.
+- (4) A 15% discount on Paro-related accessories.
+- (5) Access to a dedicated "Paro" Discord server during the Beta program.
+- (6) An optional acknowledgment of the Beta Tester's name physically imprinted on the inside case of the final Paro release, along with an acknowledgment in Paro's firmware.
 
 2. **Payment**:
-The Beta Tester agrees to pay USD$500 for participation in the Program, subject to optional waiver by the Provider.
+- The Beta Tester agrees to pay USD$500 for participation in the Program, subject to optional waiver by the Provider.
 
 3. **Exchange and Shipping**:
-
-    Provider shall bear the costs of shipping for sending devices to the Beta Tester, including but not limited to initial delivery, exchanges, and final product shipments.
-    Beta Tester shall be responsible for all costs associated with returning or exchanging devices to the Provider, including but not limited to packaging, postage, and any applicable insurance.
+- Provider shall bear the costs of shipping for sending devices to the Beta Tester, including but not limited to initial delivery, exchanges, and final product shipments.
+- Beta Tester shall be responsible for all costs associated with returning or exchanging devices to the Provider, including but not limited to packaging, postage, and any applicable insurance.
 
 4. **Limitation of Liability**:
 
