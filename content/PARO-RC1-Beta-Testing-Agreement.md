@@ -2,7 +2,7 @@ _This is the Revision "B" text of the Paro Beta Testing Agreement - participants
 
 ## Paro Beta Testing Agreement
 
-This Agreement is entered into by CP Knight, resident of Calgary, Alberta, doing business as the "Paro Beta Program" (hereinafter referred to as "Provider"), and the undersigned participant (hereinafter referred to as "Beta Tester").
+This Agreement is entered into by CP Knight, resident of Calgary, Alberta, doing business as the "Paro 1.0 Beta Program" (hereinafter referred to as "Provider"), and the undersigned participant (hereinafter referred to as "Beta Tester").
 
 1. **Program Description**:
 The Beta Tester agrees to participate in the Paro Beta Testing Program, which includes:
