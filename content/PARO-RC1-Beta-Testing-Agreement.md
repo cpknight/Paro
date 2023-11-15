@@ -7,11 +7,11 @@ This Agreement is entered into by CP Knight, resident of Calgary, Alberta, doing
 1. **Program Description**:
 The Beta Tester agrees to participate in the Paro Beta Testing Program, which includes:
     1. Receipt of the current Paro hardware (RC1).
-    2. The right to exchange the Paro for any future release candidate devices (RC2, RC3, RC4...) as they are released.
-    3. The right to exchange the Paro for the final, production version.
-    4. A 15% discount on Paro-related accessories.
-    5. Access to a dedicated "Paro" Discord server during the Beta program.
-    6. An optional acknowledgment of the Beta Tester's name physically imprinted on the inside case of the final Paro release, along with an acknowledgment in Paro's firmware.
+    2. The right to exchange the current Paro release candidate hardware in your possession for any future release candidate devices (RC2, RC3, RC4...) as they are released.
+    3. The right to exchange the current Paro release candidate hardware in your possession for one final, production version of the Paro 1.0 hardware, which may be subject to additional terms and conditions.
+    4. A 15% discount on Paro 1.0 related accessories and subscriptions.
+    5. Access to a dedicated "Paro" Discord server during throughout the Paro Beta Testing Program.
+    6. An optional acknowledgment of the Beta Tester's name physically imprinted on the inside case of the final Paro 1.0 release, along with an acknowledgment in Paro's firmware.
 
 2. **Payment**:
     - The Beta Tester agrees to pay USD$500 for participation in the Program, subject to optional waiver by the Provider.
