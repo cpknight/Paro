@@ -52,11 +52,7 @@ The Beta Tester agrees to participate in the Paro Beta Testing Program, which in
     - This Agreement shall be governed by and construed in accordance with the laws of the Province of Alberta, Canada, without regard to its conflict of laws principles.
     - Any disputes arising out of or related to this Agreement shall be resolved exclusively in the Alberta Court of Justice (Civil). Both parties consent to the jurisdiction of this court and waive any objection to the laying of the venue of any litigation in said courts.
 
-10. **Acceptance**:
 By signing below, the Beta Tester agrees to the terms and conditions outlined in this Paro Beta Testing Agreement.
 
-Signed:
-
-(Beta Tester)
-
-Date:
+Signed:                             Date:
+        (Beta Tester)
