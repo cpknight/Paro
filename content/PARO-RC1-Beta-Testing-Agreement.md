@@ -37,17 +37,22 @@ The Beta Tester agrees to participate in the Paro Beta Testing Program, which in
     - Confidential Information does not include information that is publicly known, already in the Beta Tester's possession prior to disclosure by the Provider, or rightfully obtained by the Beta Tester from a third party.
     - The Beta Tester shall not use the Confidential Information for any purpose other than the testing of the Paro hardware as outlined in this Agreement.
 
-7. **Intellectual Property**:
+7. **Privacy Policy & Email Consent**
+
+    - The personal information we collect from you - your name, email address, and shipping information - is required for and used solely for the purpose of facilitating your participation in the Paro Beta Testing Program, and this information will not be sold or re-used for any other purposes, internal or external.
+    - By providing your details, you consent to receiving emails related to the Paro Beta Testing Program and acknowledge our handling of your personal information as per this policy.
+
+8. **Intellectual Property**:
 
     - The Provider retains all rights, title, and interest in and to the Paro hardware and any and all related intellectual property, including any improvements, modifications, and derivatives thereof.
     - The Beta Tester shall not assert any claim of intellectual property rights in the Paro hardware or related materials and shall not reverse engineer, disassemble, or decompile the Paro hardware or related software.
 
-8. **Jurisdiction and Dispute Resolution**:
+9. **Jurisdiction and Dispute Resolution**:
 
     - This Agreement shall be governed by and construed in accordance with the laws of the Province of Alberta, Canada, without regard to its conflict of laws principles.
     - Any disputes arising out of or related to this Agreement shall be resolved exclusively in the Alberta Court of Justice (Civil). Both parties consent to the jurisdiction of this court and waive any objection to the laying of the venue of any litigation in said courts.
 
-9. **Acceptance**:
+10. **Acceptance**:
 By signing below, the Beta Tester agrees to the terms and conditions outlined in this Paro Beta Testing Agreement.
 
 Signed:
