@@ -2,9 +2,9 @@
 
 _Current Status_: **`PARO RC1 DEVICES` have `COMPLETED PRODUCTION` and are `READY FOR SHIPPING`.**
 
-Paro devices enable autonomous intelligence, surveillance, and reconnaissance (ISR) activities in remote and harsh environments, including from aerial vehicles. They are currently in initial production for an open (public) [beta-testing](https://www.howtogeek.com/758686/what-is-beta-testing/) program. **You can participate in the beta program - please contact [chris@cpknight.io](mailto:chris@cpknight.io) for details.**
-
 <img src="content/PARO-019P-reference-800px.png" border="1" />
+
+Paro devices enable autonomous intelligence, surveillance, and reconnaissance (ISR) activities in remote and harsh environments, including from aerial vehicles. They are currently in initial production for an open (public) [beta-testing](https://www.howtogeek.com/758686/what-is-beta-testing/) program. **You can participate in the beta program - please contact [chris@cpknight.io](mailto:chris@cpknight.io) for details.**
 
 ## ABOUT PARO &ndash;
 
