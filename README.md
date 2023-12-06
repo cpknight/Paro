@@ -12,7 +12,7 @@ This repository contains public information including manuals and firmware relea
 For participants in the **Paro Beta Testing Program**, here is the currently-anticipated release schedule of the various release candidate (RC) iterations throughout the program:
 
 | RC  | Shipping<sup>*</sup> | Features Included | Beta Testing Goals |
-| :-: | :------- | :---------------- | :----------------- |
+| :-: | :------------------- | :---------------- | :----------------- |
 | `RC1` | **`Jan 2024`** | (i) Paro physical case with beta mainboard and power supply, (ii) WiFi connectivity and on-device display, (iii) 2MP EO camera, (iv) Primary processor and firmware to manage device and mission. | (i) Device/packaging durability during shipment (FedEx), (ii) Device user-configurability under field conditions, (iii) Camera effeciveness under field conditions, (iv) Power/longevity under field conditions. |
 | `RC2` | **`Feb 2024`** | (_(i)-(iv) as above, with_) (v.a) Secondary processor and firmware, with human proximity, IMU, and temperature-pressure sensors (daughterboard). | (i) Power/longevity under field conditions with daughterboard, (ii) Primary-secondary processor communication. |
 | `RC3` | **`Mar 2024`** | (_(i)-(iv) as above, with_) (v.b) Secondary processor and firmware, with RF spectrum analysis capability (daughterboard). | (i) RF spectrum detection accuracy, (ii) Power/longevity under field conditions with dautherboard, (iii) Field-upgradable firmware capabilities. |
@@ -20,4 +20,4 @@ For participants in the **Paro Beta Testing Program**, here is the currently-ant
 | `RC5` | **`May 2024`** |  (_as above, one or two daughterbaords included with RC5._) | Specific field-deployed use-case/applications. |
 | `FINAL` | **`Jul 2024`** | **Final Production Paro device**. | `n/a` |
 
- _Updated December 2023. This table is subject to change and for informational purposes only &ndash; updates will be made here as the beta program progresses._
+ _Updated December 2023. <br /><sup>*</sup> This table is subject to change and for informational purposes only &ndash; updates will be made here as the beta program progresses._
