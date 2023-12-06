@@ -1,4 +1,4 @@
-# `Paro` - _Personal Autonomous Reconnaissance Observer_
+## `Paro` - _Personal Autonomous Reconnaissance Observer_
 
 _Current Status_: **`PARO RC1 DEVICES`**:robot: have **`COMPLETED PRODUCTION`**:factory: and are **`READY FOR SHIPPING`**:mailbox_with_mail:
 
