@@ -6,6 +6,8 @@ _Current Status_: **`PARO RC1 DEVICES` have `COMPLETED PRODUCTION` and are `READ
 
 Paro devices enable autonomous intelligence, surveillance, and reconnaissance (ISR) activities in remote and harsh environments, including from aerial vehicles. They are currently in initial production for an open (public) [beta-testing](https://www.howtogeek.com/758686/what-is-beta-testing/) program. **You can participate in the beta program - please contact [chris@cpknight.io](mailto:chris@cpknight.io) for details.**
 
+<br />
+
 ## ABOUT PARO &ndash;
 
 Paro is a "Personal Autonomous Reconnaissance Observer" device - it's a simple black box that observes the world around it, and reports what it sees back to you. It's a _personal_ device designed to help you out with its various sensors, so that you can sense things that you might not be able to on your own, or so it can make observations while you're not around. It does this _autonomously_ so you don't have to monitor it all the time while your attention is elsewhere. And it's loaded sensors and _reconnaissance_ algorithms that I've created (and adopted) so that you can choose from a long list of _observations_ that Paro can make for you. 
