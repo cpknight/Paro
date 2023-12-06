@@ -1,7 +1,8 @@
 # `Paro`
-<img src="content/PARO-019P-reference-800px.png" border="1" />
 
-This repository contains public information including manuals and firmware releases for **Personal Autonomous Reconnaissance Observer** ("**Paro**") devices.
+Paro (_personal autonomous reconnaissance observer_) enable autonomous intelligence, surveillance, and reconnaissance (ISR) activities in remote and harsh environments, including from aerial vehicles. They are currently in initial production for an open (public) [beta-testing](https://www.howtogeek.com/758686/what-is-beta-testing/) program. 
+
+<img src="content/PARO-019P-reference-800px.png" border="1" />
 
 ## PARO DOCUMENTS &ndash;
 
@@ -10,6 +11,7 @@ This repository contains public information including manuals and firmware relea
 | [Paro Quick Start Guide](content/PARO-RC1-Quick-Start-Guide.pdf)| RC1 (`Rev. C 20231126`) |
 | [Paro User Manual](content/PARO-RC1-User-Manual.pdf) | RC1 (`Rev. A 20231127`/Draft) |
 | [Paro Beta Testing Agreement](content/PARO-RC1-Beta-Testing-Agreement.md) | RC1 (`Rev. A 20231113`) |
+
 
 ## BETA TESTING SCHEDULE &ndash;
 
