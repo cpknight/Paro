@@ -18,7 +18,7 @@ Paro is a "Personal Autonomous Reconnaissance Observer" device - it's a simple b
 
 Paro is still under development, but this is the "release candidate" hardware that will become the final product. Participating in the beta program means that you'll be able to make your mark on the final stages of Paro's development, as we test it in the "real world"! We really want to put Paro through its paces (and "beat it up") through this beta-testing program. Accordingly, we want to make it worth the while of participants. 
 
-Participants in the beta program get: (1) the current Paro hardware (`RC1`); (2) the right to exchange the current Paro RC device for any future "release candidate" devices (`RC2`, `RC3`, `RC4`...) as they are released; (3) the right to exchange for the final, production version of Paro; (4) a 15% "beta tester" discount on accessories related to Paro (when they are released); (5) access to a "Paro" Discord server during the Beta program; and (6) an optional acknowledgment to you physically imprinted on the inside case of the final Paro release, along with a special acknowledgement in Paro's firmware.
+Participants in the beta program get: (1) the current Paro hardware (`RC1`); (2) the right to exchange the current Paro RC device for any future "release candidate" devices (`RC2`, `RC3`, `RC4`...) as they are released; (3) the right to exchange for the final, production version of Paro; (4) a 15% "beta tester" discount on accessories related to Paro (when they are released); (5) access to a "Paro" [Discord server](https://discord.gg/559vStdxvp) during the beta program; and (6) an optional acknowledgment to you physically imprinted on the inside case of the final Paro release, along with a special acknowledgement in Paro's firmware.
 
 We're aiming for a maximum of 50 "at large" participants in the beta testing program, which is subject to participants' agreement of the [Paro Beta Testing Agreement](content/PARO-RC1-Beta-Testing-Agreement.md).
 
@@ -47,4 +47,4 @@ For participants in the **Paro Beta Testing Program**, here is the currently-ant
 | `RC5` | **`May 2024`** |  (_as above, one or two daughterbaords included with RC5._) | Specific field-deployed use-case/applications. |
 | `FINAL` | **`Jul 2024`** | **Final Production Paro device**. | `n/a` |
 
- _<sup>*</sup> For informational purposes only and details are subject to change &ndash; updates will be made as beta program progresses.<br />Updated December 2023._
+ _<sup>*</sup> For informational purposes only; details subject to change &ndash; updates will be made as beta program progresses.<br />Updated December 2023._
