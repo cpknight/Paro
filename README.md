@@ -3,13 +3,15 @@
 
 This repository contains public information including manuals and firmware releases for **Personal Autonomous Reconnaissance Observer** ("**Paro**") devices.
 
+## PARO DOCUMENTS &ndash;
+
 | Document | Revision |
 | :------- | :------- |
 | [Paro Quick Start Guide](content/PARO-RC1-Quick-Start-Guide.pdf)| RC1 (`Rev. C 20231126`) |
 | [Paro User Manual](content/PARO-RC1-User-Manual.pdf) | RC1 (`Rev. A 20231127`/Draft) |
 | [Paro Beta Testing Agreement](content/PARO-RC1-Beta-Testing-Agreement.md) | RC1 (`Rev. A 20231113`) |
 
-### BETA TESTING SCHEDULE &ndash;
+## BETA TESTING SCHEDULE &ndash;
 
 For participants in the **Paro Beta Testing Program**, here is the currently-anticipated release schedule of the various release candidate (RC) iterations throughout the program:
 
