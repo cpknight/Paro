@@ -20,4 +20,4 @@ For participants in the **Paro Beta Testing Program**, here is the currently-ant
 | `RC5` | **`May 2024`** |  (_as above, one or two daughterbaords included with RC5._) | Specific field-deployed use-case/applications. |
 | `FINAL` | **`Jul 2024`** | **Final Production Paro device**. | `n/a` |
 
- _Updated December 2023. <br /><sup>*</sup> This table is subject to change and for informational purposes only &ndash; updates will be made here as the beta program progresses._
+ _Updated December 2023. <br /><sup>*</sup> For informational purposes only and details are subject to change &ndash; updates will be made here as the beta program progresses._
