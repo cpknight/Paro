@@ -18,6 +18,6 @@ For participants in the **Paro Beta Testing Program**, here is the currently-ant
 | `RC3` | **`Mar 2024`** | (_(i)-(iv) as above, with_) (v.b) Secondary processor and firmware, with RF spectrum analysis capability. | (i) RF spectrum detection accuracy, (ii) Power/longevity under field conditions with dautherboard, (iii) Field-upgradable firmware capabilities. |
 | `RC4` | **`Apr 2024`** | (i) Paro physical case with final mainboard and power supply, (ii) WiFi connectivity and on-device display, (iii) integrated EO camera, IMU, temperature/pressure sensors, (iv) RF communication and/or analysis daughterboard. | (i) Power/longevity under field conditions with daughterboard, (ii) RF communication ranges under field conditions, (iii) Other specific field-deployment use-case/applications. | 
 | `RC5` | **`May 2024`** |  (_as above, one or two daughterbaords included for RC5._) | Specific field-deployed use-case/applications. |
-| `FINAL` | **`July 2024` | Final Production Paro device. | n/a |
+| `FINAL` | **`Jul 2024`** | Final Production Paro device. | n/a |
 
  _Updated December 2023. This table is subject to change and for informational purposes only &ndash; updates will be made here as the beta program progresses._
