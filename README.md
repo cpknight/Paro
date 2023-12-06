@@ -1,6 +1,6 @@
 # `Paro` - _personal autonomous reconnaissance observer_
 
-Paro devices enable autonomous intelligence, surveillance, and reconnaissance (ISR) activities in remote and harsh environments, including from aerial vehicles. They are currently in initial production for an open (public) [beta-testing](https://www.howtogeek.com/758686/what-is-beta-testing/) program. **You can participate in the beta program - please contact [chris@cpknight.io](mailto:chris@cpknight.io) for more information.**
+Paro devices enable autonomous intelligence, surveillance, and reconnaissance (ISR) activities in remote and harsh environments, including from aerial vehicles. They are currently in initial production for an open (public) [beta-testing](https://www.howtogeek.com/758686/what-is-beta-testing/) program. **You can participate in the beta program - please contact [chris@cpknight.io](mailto:chris@cpknight.io) for details.**
 
 <img src="content/PARO-019P-reference-800px.png" border="1" />
 
