@@ -9,7 +9,7 @@ This repository contains public information including manuals and firmware relea
 | [Paro User Manual](content/PARO-RC1-User-Manual.pdf) | RC1 (`Rev. A 20231127`/Draft) |
 | [Paro Beta Testing Agreement](content/PARO-RC1-Beta-Testing-Agreement.md) | RC1 (`Rev. A 20231113`) |
 
-For participants in the **Paro Beta Testing Program**, here is the currently-anticipated release schedule of the various release candidate (RC) iterations throughout the program.
+For participants in the **Paro Beta Testing Program**, here is the currently-anticipated release schedule of the various release candidate (RC) iterations throughout the program:
 
 | RC  | Anticipated Shipping | Features Included | Beta Testing Goals |
 | :-: | :------------------- | :---------------- | :----------------- |
@@ -19,4 +19,5 @@ For participants in the **Paro Beta Testing Program**, here is the currently-ant
 | `RC4` | **`April 2024`** | (i) Paro physical case with final mainboard and power supply, (ii) WiFi connectivity and on-device display, (iii) integrated EO camera, IMU, temperature/pressure sensors, (iv) RF communication and/or analysis daughterboard. | (i) Power/longevity under field conditions with daughterboard, (ii) RF communication ranges under field conditions, (iii) Other specific field-deployment use-case/applications. | 
 | `RC5` | **`May 2024`** |  (_as above, one or two daughterbaords included for RC5._) | Specific field-deployed use-case/applications. |
 | `FINAL` | **`July 2024` | Final Production Paro device. | n/a |
- _This table is subject to change and for informational purposes only &ndash; updates will be made here as the beta program progresses._
+
+ _Updated December 2023. This table is subject to change and for informational purposes only &ndash; updates will be made here as the beta program progresses._
