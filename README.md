@@ -1,6 +1,6 @@
 # `Paro` - _Personal Autonomous Reconnaissance Observer_
 
-_Current Status_: **`PARO RC1 DEVICES` have `COMPLETED PRODUCTION` and are `READY FOR SHIPPING`.**
+_Current Status_: **:robot: `PARO RC1 DEVICES` have :factory:`COMPLETED PRODUCTION` and are :mailbox_with_mail:`READY FOR SHIPPING`!**
 
 <img src="content/PARO-019P-reference-800px.png" border="1" />
 
