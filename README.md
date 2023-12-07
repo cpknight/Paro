@@ -10,7 +10,7 @@ Paro devices enable autonomous intelligence, surveillance, and reconnaissance (I
 
 ## ABOUT PARO &ndash;
 
-Paro is a "_Personal Autonomous Reconnaissance Observer_" device - it's a simple black box that observes the world around it and reports what it sees back to you. It's a _personal_ device designed to help you out with its various sensors so that you can sense things that you might not be able to on your own or so it can make observations while you're not around. It does this _autonomously_ so you don't have to monitor it all the time while your attention is elsewhere. Plus it's loaded with _reconnaissance_ algorithms that have been created (and adopted) so that you can choose from a long list of _observations_ that Paro can make for you. 
+Paro is a "_Personal Autonomous Reconnaissance Observer_" device - it's a simple black box that observes the world around it and reports what it sees back to you. It's a _personal_ device designed to help you out with its various sensors so that you can sense things that you might not be able to on your own or so it can make observations while you're not around. It does this _autonomously_ so you don't have to monitor it all the time while your attention is elsewhere. Plus it's loaded with _reconnaissance_ algorithms that have been created (and adopted) specifically for Paro, so you can choose from a long list of _observations_ that Paro can make for you. 
 
 <br />
 
