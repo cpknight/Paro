@@ -1,10 +1,10 @@
 
 # PARO Devices
 ## Personal Autonomous Reconnaissance Observer
+<img src="content/2024-10-09-22.30.25.png" border="2" align="right" />
 
-:information_source: The *Paro Beta-Test Program* has been updated for Winter 2024-2025. Additional beta-testers are appreciated! Please see [`Reconnaissance.Services`](https://reconnaissance.services) for more information.
+:information_source: The **Paro &#946;eta-Test Program** has been updated for Winter 2024-2025. Additional beta-testers are appreciated! Please see :link: [`Reconnaissance.Services`](https://reconnaissance.services) for more information.
 
-<img src="content/2024-10-09-22.30.25.png" border="2" />
 
 <!--
 
