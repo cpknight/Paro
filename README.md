@@ -5,9 +5,7 @@
 
 :information_source: The **Paro &#946;eta-Test Program** has been updated for Winter 2024-2025. 
 
-Additional beta-testers are appreciated! 
-
-Please see :link: [`Reconnaissance.Services`](https://reconnaissance.services) for more information, and to participate.
+Additional beta-testers are appreciated! Please see :link: [`Reconnaissance.Services`](https://reconnaissance.services) for more information, and to participate.
 
 
 <!--
@@ -62,5 +60,5 @@ For participants in the **Paro Beta Testing Program**, here is the currently-ant
 | `RC5` | **`May 2024`** |  (_as above, one or two daughterbaords included with RC5._) | Specific field-deployed use-case/applications. |
 | `FINAL` | **`Jul 2024`** | **Final Production Paro device**. | `n/a` |
 
--->
  _<sup>*</sup> For informational purposes only; details subject to change &ndash; updates will be made as beta program progresses.<br />Updated December 2023._
+-->
