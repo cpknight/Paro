@@ -1,6 +1,5 @@
 
-# PARO Devices
-## Personal Autonomous Reconnaissance Observer
+## PARO - Personal Autonomous Reconnaissance Observer Devices
 <img src="content/2024-10-09-22.30.25.png" border="2" align="right" />
 
 :information_source: The **Paro &#946;eta-Test Program** has been updated for Winter 2024-2025. 
