@@ -1,10 +1,22 @@
 
 ## PARO - Personal Autonomous Reconnaissance Observer Devices
-<img src="content/2024-10-09-22.30.25.png" border="2" align="right" />
+
+Note: Full public device reference material is presently being migrated from other sources. 
+
+| Generation | Device | Image |
+| :--------- | :----- | :---: |
+| `Gen 0`    | Paro "Generation 0" | <img src="content/2024-10-09-22.30.25.png" border="2" width="100" /> |
+| `Gen 1`    | Paro "Generation 1" | |
+| `Gen 2`    | Paro MX&beta; |  |
+
+
+<!--
 
 :information_source: The **Paro &#946;eta-Test Program** has been updated for Winter 2024-2025. 
 
 Additional beta-testers are appreciated! Please see :link: [`Reconnaissance.Services`](https://reconnaissance.services) for more information, and to participate.
+
+-->
 
 
 <!--
