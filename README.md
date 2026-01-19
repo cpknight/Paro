@@ -5,7 +5,7 @@ _**Note**: Full public device reference material is presently being migrated fro
 
 | Generation | Device | Image |
 | :--------- | :----- | :---: |
-| `Gen 2`    | Paro MX&beta; | <img src="https://github.com/user-attachments/assets/35d5097e-45dc-417e-a716-7494b0a25545" border="2" width="100" /> |
+| `Gen 2`    | [**Paro MX&beta;**](wiki/MXB/) | <img src="https://github.com/user-attachments/assets/35d5097e-45dc-417e-a716-7494b0a25545" border="2" width="100" /> |
 | `Gen 1`    | Paro "Generation 1" | <img src="content/2024-10-09-22.30.25.png" border="2" width="100" /> |
 | `Gen 0`    | Paro "Generation 0" | |
 
