@@ -1,7 +1,7 @@
 
-## PARO - Personal Autonomous Reconnaissance Observer Devices
+## `PARO` - `Personal Autonomous Reconnaissance Observer` Devices
 
-Note: Full public device reference material is presently being migrated from other sources. 
+_**Note**: Full public device reference material is presently being migrated from other sources..._ 
 
 | Generation | Device | Image |
 | :--------- | :----- | :---: |
