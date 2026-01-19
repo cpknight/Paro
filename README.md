@@ -5,9 +5,9 @@ Note: Full public device reference material is presently being migrated from oth
 
 | Generation | Device | Image |
 | :--------- | :----- | :---: |
-| `Gen 0`    | Paro "Generation 0" | |
-| `Gen 1`    | Paro "Generation 1" | <img src="content/2024-10-09-22.30.25.png" border="2" width="100" /> |
 | `Gen 2`    | Paro MX&beta; |  |
+| `Gen 1`    | Paro "Generation 1" | <img src="content/2024-10-09-22.30.25.png" border="2" width="100" /> |
+| `Gen 0`    | Paro "Generation 0" | |
 
 
 <!--
